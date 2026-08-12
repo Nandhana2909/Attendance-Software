@@ -1,5 +1,11 @@
 # BIT-25
 
+  **TEAM MEMBERS:**
+      1. Nandhana G
+      2. Miruthika Shri J M
+      3. Lakshmi Narayanan S
+      4. Krishna Kumar S
+      
 PROBLEM STATEMENT:
   **Build an AI-based face recognition system to automate attendance using a webcam or smartphone.**
 
