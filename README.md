@@ -1,4 +1,4 @@
-# BIT-25
+# Attendance Software
 
 **TEAM MEMBERS:**
 
