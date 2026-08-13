@@ -29,4 +29,4 @@ PROBLEM STATEMENT:
       (PREFERENCE : Use MySQL)
 
 
-    6. Add your face to the DB, the program takes care of the transfromations and further proceedings.
+    6. Add your face to the DB, the program takes care of the transformations and further proceedings.
